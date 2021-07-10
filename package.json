@@ -1,0 +1,22 @@
+{
+  "name": "scooterappproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabiye/ScooterAppProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aabiye/ScooterAppProject/issues"
+  },
+  "homepage": "https://github.com/aabiye/ScooterAppProject#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}

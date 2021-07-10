@@ -1,0 +1,18 @@
+As a user, I want to loginto the app, by entering my credentials 
+
+As a user, I want to rent a scooter, by finding a charging station 
+
+As a user, I want to return a scooter, by finding a charging station
+
+As a user, I want to make a payment, by returning the scooter 
+
+As an app, I want to autenticate user info, by validating provided information 
+
+As an app, I want to validate age requirment, by verifying age information 
+
+As an app, I want to take payment, by verifying returned scooter
+
+As an a charging station, I want to have scooters available by taking inventory of scooters 
+
+
+
